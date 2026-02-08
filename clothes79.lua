@@ -20818,7 +20818,7 @@ function RoClothes(Player)
 	GUIObject.PageFrame.Position = UDim2.new(0,0,0)
 	GUIObject.PageFrame.Size = UDim2.new(1,0,1,0)
 
-	GUIObject.UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(27, 27, 27)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(50, 50, 50))}
+	GUIObject.UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(204, 204, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(237, 199, 255))}
 	GUIObject.UIGradient.Rotation = -90
 	GUIObject.UIGradient.Parent = GUIObject.PageFrame
 
@@ -21271,7 +21271,7 @@ function RoClothes(Player)
 	GUIObject.MenuButton.TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
 	GUIObject.MenuButton.TextWrapped = true
 
-	GUIObject.UIGradient_12.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(27, 27, 27)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(50, 50, 50))}
+	GUIObject.UIGradient_12.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(204, 204, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(237, 199, 255))}
 	GUIObject.UIGradient_12.Rotation = -90
 	GUIObject.UIGradient_12.Parent = GUIObject.Menu_2
 
@@ -21300,7 +21300,7 @@ function RoClothes(Player)
 	GUIObject.Menu2Button.TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
 	GUIObject.Menu2Button.TextWrapped = true
 
-	GUIObject.UIGradient_19.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(27, 27, 27)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(50, 50, 50))}
+	GUIObject.UIGradient_19.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(204, 204, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(237, 199, 255))}
 	GUIObject.UIGradient_19.Rotation = -90
 	GUIObject.UIGradient_19.Parent = GUIObject.Menu2_2
 
@@ -21329,7 +21329,7 @@ function RoClothes(Player)
 	GUIObject.Menu3Button.TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
 	GUIObject.Menu3Button.TextWrapped = true
 
-	GUIObject.M3UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(27, 27, 27)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(50, 50, 50))}
+	GUIObject.M3UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(204, 204, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(237, 199, 255))}
 	GUIObject.M3UIGradient.Rotation = -90
 	GUIObject.M3UIGradient.Parent = GUIObject.Menu3_3
 
@@ -21358,7 +21358,7 @@ function RoClothes(Player)
 	GUIObject.ClothesButton.TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
 	GUIObject.ClothesButton.TextWrapped = true
 
-	GUIObject.UIGradient_13.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(27, 27, 27)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(50, 50, 50))}
+	GUIObject.UIGradient_13.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(204, 204, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(237, 199, 255))}
 	GUIObject.UIGradient_13.Rotation = -90
 	GUIObject.UIGradient_13.Parent = GUIObject.Clothes_2
 
@@ -21387,7 +21387,7 @@ function RoClothes(Player)
 	GUIObject.BundlesButton.TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
 	GUIObject.BundlesButton.TextWrapped = true
 
-	GUIObject.UIGradient_14.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(27, 27, 27)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(50, 50, 50))}
+	GUIObject.UIGradient_14.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(204, 204, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(237, 199, 255))}
 	GUIObject.UIGradient_14.Rotation = -90
 	GUIObject.UIGradient_14.Parent = GUIObject.Bundles_2
 
@@ -21783,7 +21783,7 @@ function RoClothes(Player)
 	GUIObject.CatalogButton.TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
 	GUIObject.CatalogButton.TextWrapped = true
 
-	GUIObject.UIGradient_33.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(27, 27, 27)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(50, 50, 50))}
+	GUIObject.UIGradient_33.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(204, 204, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(237, 199, 255))}
 	GUIObject.UIGradient_33.Rotation = -90
 	GUIObject.UIGradient_33.Parent = GUIObject.Catalog_2
 
@@ -21812,7 +21812,7 @@ function RoClothes(Player)
 	GUIObject.EditButton.TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
 	GUIObject.EditButton.TextWrapped = true
 
-	GUIObject.UIGradient_32.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(27, 27, 27)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(50, 50, 50))}
+	GUIObject.UIGradient_32.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(204, 204, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(237, 199, 255))}
 	GUIObject.UIGradient_32.Rotation = -90
 	GUIObject.UIGradient_32.Parent = GUIObject.Edit_2
 
@@ -22560,7 +22560,7 @@ function RoClothes(Player)
 	GUIObject.HPButton.TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
 	GUIObject.HPButton.TextWrapped = true
 
-	GUIObject.UIGradient_A3.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(27, 27, 27)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(50, 50, 50))}
+	GUIObject.UIGradient_A3.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(204, 204, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(237, 199, 255))}
 	GUIObject.UIGradient_A3.Rotation = -90
 	GUIObject.UIGradient_A3.Parent = GUIObject.HP
 
@@ -22832,7 +22832,7 @@ function RoClothes(Player)
 	GUIObject.RecolorButton.TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
 	GUIObject.RecolorButton.TextWrapped = true
 
-	GUIObject.UIGradient_A14.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(27, 27, 27)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(50, 50, 50))}
+	GUIObject.UIGradient_A14.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(204, 204, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(237, 199, 255))}
 	GUIObject.UIGradient_A14.Rotation = -90
 	GUIObject.UIGradient_A14.Parent = GUIObject.Recolor
 
