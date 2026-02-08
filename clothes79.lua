@@ -20818,7 +20818,7 @@ function RoClothes(Player)
 	GUIObject.PageFrame.Position = UDim2.new(0,0,0)
 	GUIObject.PageFrame.Size = UDim2.new(1,0,1,0)
 
-	GUIObject.UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(27, 27, 27)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(50, 50, 50))}
+	GUIObject.UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(204, 204, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(227, 166, 255))}
 	GUIObject.UIGradient.Rotation = -90
 	GUIObject.UIGradient.Parent = GUIObject.PageFrame
 
